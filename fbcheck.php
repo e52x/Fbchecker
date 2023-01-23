@@ -1,3 +1,8 @@
+# "Code By : KangSantuy"
+# "Github  : https://github.com/e52x"
+# "Youtube : BlackSlayer101
+
+# "gw bikin sc ini sebener nya kagak niat cuma buat ngetest doank
 <?php
 
 $biru = "\e[34m";
