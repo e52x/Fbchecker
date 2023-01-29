@@ -1,4 +1,4 @@
-# "Code By : KangSantuy"
+# "Code By : Ridwan XD"
 # "Github  : https://github.com/e52x"
 # "Youtube : BlackSlayer101"
 
